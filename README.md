@@ -24,5 +24,5 @@
 [![](https://img.icons8.com/color/50/000000/react-native.png)]()
 
 
-[![](https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px")]()
+
 
