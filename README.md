@@ -9,7 +9,6 @@
 - ⚡ Fun fact: ...
 <br/>
 #### Connect with me:
-[<img align="left" alt ="linkedin" width="22px" src="https://icons8.com/icon/WyB8Jtm9PZoo/linkedin"/>][linkedin]
 
-[linkedin]:https://icons8.com/icon/WyB8Jtm9PZoo/linkedin
 
+![linkedin](img/linkedin.gif)
