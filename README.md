@@ -8,8 +8,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <br/>
-####Connect with me:
+- 
+###Connect with me:
 
-<img src="https://img.icons8.com/dusk/50/000000/linkedin--v2.png" width="30px"/>
-<img src="https://img.icons8.com/color/50/000000/telegram-app--v3.png"width="30px"/>
-<img src="https://img.icons8.com/color-glass/50/000000/github.png"width="30px"/>
+
+
+[![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")](http://i.stack.imgur.com/vwxyz.png)
