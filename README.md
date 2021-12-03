@@ -13,3 +13,18 @@
 
 
 [![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")](http://i.stack.imgur.com/vwxyz.png)
+
+### Languages and Tools:
+
+[![](https://img.icons8.com/color/48/000000/html-5--v1.png)]()
+
+[![](https://img.icons8.com/color/48/000000/bootstrap.png)](http://i.stack.imgur.com/vwxyz.png)
+
+[![](https://img.icons8.com/color/48/000000/javascript--v1.png)](http://i.stack.imgur.com/vwxyz.png)
+
+[![](https://img.icons8.com/color/48/000000/css3.png)](http://i.stack.imgur.com/vwxyz.png)
+
+[![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png)](http://i.stack.imgur.com/vwxyz.png)
+
+
+[![](https://img.icons8.com/color/50/000000/react-native.png)](http://i.stack.imgur.com/vwxyz.png)
