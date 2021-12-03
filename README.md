@@ -23,4 +23,6 @@
 [![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png)]()
 [![](https://img.icons8.com/color/50/000000/react-native.png)]()
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
+[![](https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px")]()
+
