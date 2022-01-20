@@ -8,10 +8,10 @@
 
 <br/>
  
-### Connect with me:www.linkedin.com/in/anna-paruryan-b2455122b
+### Connect with me:
 
 
-[![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")](www.linkedin.com/in/anna-paruryan-b2455122b)()
+[![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")](www.linkedin.com/in/anna-paruryan-b2455122b)
 
 ### Languages and Tools:
 
@@ -23,7 +23,7 @@
 [![](https://img.icons8.com/color/50/000000/react-native.png)]()
 [![](https://img.icons8.com/color-glass/48/000000/sql.png)]()
 
-
+[linkedin]:www.linkedin.com/in/anna-paruryan-b2455122b
 
 
 
