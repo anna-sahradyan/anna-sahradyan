@@ -11,7 +11,7 @@
 ### Connect with me:
 
 
-[![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")](http://i.stack.imgur.com/vwxyz.png)
+[![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")](http://i.stack.imgur.com/vwxyz.png)www.linkedin.com/in/anna-paruryan-b2455122b
 
 ### Languages and Tools:
 
