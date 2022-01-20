@@ -23,7 +23,7 @@
 [![](https://img.icons8.com/color/50/000000/react-native.png)]()
 [![](https://img.icons8.com/color-glass/48/000000/sql.png)]()
 
-[linkedin]:www.linkedin.com/in/anna-paruryan-b2455122b
+[linkedin]:www.linkedin.com/in/anna-paruryan-b2455122b/
 
 
 
