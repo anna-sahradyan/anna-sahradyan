@@ -2,9 +2,9 @@
 #### Hi there 👋 I am Anna
 
 - 🔭 I am Junior Front End Programmer, React.js developer.
-- 🌱I’m currently learning new things
+- 🌱I’m currently learning node.js
 - 📫 How to reach me: anna.paruryan72@gmail.com
-- 😄 Pronouns: ...
+
 
 <br/>
  
