@@ -3,7 +3,7 @@
 
 - 🔭 I am Junior Front End Programmer, React.js developer.
 - 🌱I’m currently learning node.js
-- 📫 How to reach me:[mail]
+- 📫 anna.paruryan72@gmail.com
 
 
 <br/>
@@ -24,6 +24,6 @@
 [![](https://img.icons8.com/color-glass/48/000000/sql.png)]()
 
 [linkedin]:https://www.linkedin.com/in/anna-paruryan-b2455122b/
-[mail]:anna.paruryan72@gmail.com
+
 
 
