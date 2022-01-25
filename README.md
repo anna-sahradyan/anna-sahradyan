@@ -22,7 +22,7 @@
 [![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png)]()
 [![](https://img.icons8.com/color/50/000000/react-native.png)]()
 [![](https://www.iconfinder.com/icons/4691205/redux_icon)]()
-[![](https://img.icons8.com/color/344/redux.png)]{width="48"}()
+[![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo.png)]()
 
 [linkedin]:https://www.linkedin.com/in/anna-paruryan-b2455122b/
 
