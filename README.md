@@ -21,7 +21,7 @@
 [![](https://img.icons8.com/color/48/000000/css3.png)]()
 [![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png)]()
 [![](https://img.icons8.com/color/50/000000/react-native.png)]()
-[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZk_2D1qOUeGb8g4dM5v7TFflnzNUgz_RRg&usqp=CAU)]()
+[![](https://www.iconfinder.com/icons/4691205/redux_icon)]()
 [![](https://img.icons8.com/color-glass/48/000000/sql.png)]()
 
 [linkedin]:https://www.linkedin.com/in/anna-paruryan-b2455122b/
