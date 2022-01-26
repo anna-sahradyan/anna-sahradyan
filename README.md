@@ -25,7 +25,6 @@
 [![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png)]()
 [![](https://img.icons8.com/color/48/000000/bootstrap.png)]()
 
-[![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png)]()
 
 
 
