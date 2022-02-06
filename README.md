@@ -8,7 +8,7 @@
 <br/>
  
 ### Connect with me:
-[![](https://img.icons8.com/officel/48/000000/open-resume.png)]()
+[![](https://img.icons8.com/officel/48/000000/open-resume.png)][resume]
 
 [![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")][linkedin]
 
@@ -27,6 +27,6 @@
 
 
 [linkedin]:https://www.linkedin.com/in/anna-paruryan-b2455122b/
-
+[resume]:https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:317597ad-2cb0-4fa9-90dc-81d355cc341e
 
 
