@@ -24,8 +24,7 @@
 [![](https://user-images.githubusercontent.com/71427017/151048309-de7b2e3a-309a-4db5-9294-8bd86e1311f1.png)]()
 [![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png)]()
 [![](https://img.icons8.com/color/48/000000/bootstrap.png)]()
-
-
+[![](https://img.icons8.com/officel/40/000000/open-resume.png)]()
 
 
 [linkedin]:https://www.linkedin.com/in/anna-paruryan-b2455122b/
