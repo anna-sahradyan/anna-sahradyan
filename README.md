@@ -12,7 +12,7 @@
 
 
 [![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")][linkedin]
-[![](https://img.icons8.com/officel/30/000000/open-resume.png)]()
+[![](https://img.icons8.com/officel/100/000000/open-resume.png)]()
 ### Languages and Tools:
 
 [![](https://img.icons8.com/color/48/000000/html-5--v1.png)]()
