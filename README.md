@@ -26,7 +26,7 @@
 [![](https://img.icons8.com/color/48/000000/bootstrap.png)]()
 ![image](https://user-images.githubusercontent.com/71427017/166156375-729b2b65-2e68-4100-aab6-ebe0b992cc23.png)
 ![image](https://user-images.githubusercontent.com/71427017/168418395-1427cc24-83e0-4757-98bb-533ae8ed2973.png)
-
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fprettier.io%2Ficon.png&imgrefurl=https%3A%2F%2Fprettier.io%2F&tbnid=LM2yr1w-ifZKqM&vet=12ahUKEwjY8rPO9eT3AhUMGewKHVQHAa4QMygAegUIARDBAQ..i&docid=G8DlurGLyXmHiM&w=256&h=256&q=prettier&ved=2ahUKEwjY8rPO9eT3AhUMGewKHVQHAa4QMygAegUIARDBAQ
 
 
 
