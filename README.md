@@ -18,6 +18,7 @@
 [![](https://img.icons8.com/color/48/000000/css3.png)]()
 [![](https://img.icons8.com/color/48/000000/javascript--v1.png)]()
 [![](https://img.icons8.com/color/50/000000/react-native.png)]()
+![image](https://user-images.githubusercontent.com/71427017/179968261-8f703077-0687-419d-9af9-9453b9ae0dd9.png)
 [![](https://user-images.githubusercontent.com/71427017/151047608-eded7d56-dba2-4376-9ecd-69eb989da321.png)]()
 [![](https://user-images.githubusercontent.com/71427017/151046937-20bad4f8-ff6a-4ed0-921e-26fea6f04cee.png)]()
 [![](https://user-images.githubusercontent.com/71427017/151048309-de7b2e3a-309a-4db5-9294-8bd86e1311f1.png)]()
@@ -26,7 +27,7 @@
 [![](https://img.icons8.com/color/48/000000/bootstrap.png)]()
 ![image](https://user-images.githubusercontent.com/71427017/166156375-729b2b65-2e68-4100-aab6-ebe0b992cc23.png)
 ![image](https://user-images.githubusercontent.com/71427017/168418395-1427cc24-83e0-4757-98bb-533ae8ed2973.png)
-![image](https://user-images.githubusercontent.com/71427017/179968261-8f703077-0687-419d-9af9-9453b9ae0dd9.png)
+
 
 
 
