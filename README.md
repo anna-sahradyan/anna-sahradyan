@@ -46,6 +46,6 @@
 
 
 [linkedin]:https://www.linkedin.com/in/anna-paruryan-b2455122b/
-[resume]:https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:b0432054-f904-441f-8241-ff4fa9c0cbae
+[resume]:https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:05ce046b-498e-4741-b7f6-44f3ae7ca731
 
 
