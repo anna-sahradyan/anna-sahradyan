@@ -1,7 +1,7 @@
 
 #### Hi there 👋 I am Anna
 
-- 🔭 I am Junior Front End Programmer, React.js developer.
+- 🔭 I am Full-Stack Developer.
 - 🌱I’m currently learning `` TYPESCRIPT ``
 - 📫 anna.paruryan72@gmail.com
 
