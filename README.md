@@ -9,7 +9,7 @@
  
 ### Connect with me:
 [![]()][resume]
-https://drive.google.com/file/d/1F4RUOFrxOpkodRRMPIvPYoQLV4kpoPVU/view?usp=sharing
+
 
 [![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")][linkedin]
 
