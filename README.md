@@ -8,7 +8,7 @@
 <br/>
  
 ### Connect with me:
-[![](https://img.icons8.com/officel/48/000000/open-resume.png)][resume]
+[![](https://drive.google.com/file/d/1F4RUOFrxOpkodRRMPIvPYoQLV4kpoPVU/view?usp=sharing)][resume]
 
 [![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")][linkedin]
 
