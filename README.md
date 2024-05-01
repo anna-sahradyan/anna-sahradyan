@@ -8,7 +8,7 @@
 <br/>
  
 ### Connect with me:
-[![]()][resume]
+[![](https://drive.google.com/file/d/1F4RUOFrxOpkodRRMPIvPYoQLV4kpoPVU/view?usp=sharing)][resume]
 
 
 [![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")][linkedin]
@@ -47,6 +47,6 @@
 
 
 [linkedin]:https://www.linkedin.com/in/anna-paruryan-b2455122b/
-[resume]:https://drive.google.com/file/d/1jNna_N0sUnQN6PbLekAXY0os4WLwVlZM/view?usp=share_link
+[resume]:https://drive.google.com/file/d/1F4RUOFrxOpkodRRMPIvPYoQLV4kpoPVU/view?usp=sharing
 
 
