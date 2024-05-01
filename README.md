@@ -47,6 +47,6 @@
 
 
 [linkedin]:https://www.linkedin.com/in/anna-paruryan-b2455122b/
-[resume]:https://drive.google.com/file/d/1F4RUOFrxOpkodRRMPIvPYoQLV4kpoPVU/view?usp=sharing
+[resume]:https://cdn4.iconfinder.com/data/icons/success-filloutline/64/portfolio-business_and_finance-personal_profile-resume-interface-512.png
 
 
