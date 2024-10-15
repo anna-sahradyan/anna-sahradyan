@@ -2,7 +2,7 @@
 #### Hi there 👋 I am Anna
 
 - 🔭 I am Full-Stack Developer.
-- 🌱I’m currently learning `` TYPESCRIPT  AND PHP ``
+- 🌱I’m currently learning ``PHP ``
 - 📫 anna.paruryan72@gmail.com
 
 <br/>
