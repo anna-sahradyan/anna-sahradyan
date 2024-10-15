@@ -4,6 +4,7 @@
 - 🔭 I am Full-Stack Developer.
 - 🌱I’m currently learning ``PHP ``
 - 📫 anna.paruryan72@gmail.com
+- 📧 https://www.linkedin.com/in/anna-paruryan-b2455122b
 
 <br/>
  
