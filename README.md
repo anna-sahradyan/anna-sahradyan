@@ -9,7 +9,7 @@
 <br/>
  
 ### Connect with me:
-[![](https://cdn4.iconfinder.com/data/icons/success-filloutline/64/portfolio-business_and_finance-personal_profile-resume-interface-48.png)][resume]
+[![](https://drive.google.com/file/d/1FZGWd6rHywpMepuKtJH9pOaQnkRzozjz/view?usp=sharing)][resume]
 
 
 [![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")][linkedin]
