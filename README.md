@@ -31,3 +31,6 @@
 [![](https://user-images.githubusercontent.com/71427017/168418395-1427cc24-83e0-4757-98bb-533ae8ed2973.png)]()
 [![](https://user-images.githubusercontent.com/71427017/187023740-9852a793-2c41-490f-9d2b-9f0646ec8066.png)]()
 [![](https://user-images.githubusercontent.com/71427017/187643573-a47f2000-5a4b-4ebd-b265-b946f1e43e7a.png)]()
+[![](https://img.icons8.com/fluency/48/000000/nextjs.png)](https://nextjs.org/)
+[![](https://img.icons8.com/color/48/000000/vue-js.png)](https://vuejs.org/)
+
