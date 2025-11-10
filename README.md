@@ -9,7 +9,8 @@
 <br/>
  
 ### Connect with me:
-[![](https://drive.google.com/file/d/1FZGWd6rHywpMepuKtJH9pOaQnkRzozjz/view?usp=sharing)][resume]
+[![Резюме](https://img.icons8.com/?size=48&id=61466&format=png)](https://drive.google.com/uc?export=download&id=1FZGWd6rHywpMepuKtJH9pOaQnkRzozjz)
+
 
 
 [![](https://img.icons8.com/dusk/50/000000/linkedin--v2.png"width="30px")][linkedin]
