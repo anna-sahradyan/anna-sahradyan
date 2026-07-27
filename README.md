@@ -15,10 +15,6 @@
 ---
 
 ### Languages and Tools:
-<img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" height="40"/>
 [![](https://img.icons8.com/color/48/000000/html-5--v1.png)]()
 [![](https://img.icons8.com/color/48/000000/css3.png)]()
 [![](https://img.icons8.com/color/48/000000/javascript--v1.png)]()
@@ -34,5 +30,9 @@
 [![](https://user-images.githubusercontent.com/71427017/168418395-1427cc24-83e0-4757-98bb-533ae8ed2973.png)]()
 [![](https://user-images.githubusercontent.com/71427017/187023740-9852a793-2c41-490f-9d2b-9f0646ec8066.png)]()
 [![](https://user-images.githubusercontent.com/71427017/187643573-a47f2000-5a4b-4ebd-b265-b946f1e43e7a.png)]()
+<img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" height="40"/>
 
 
