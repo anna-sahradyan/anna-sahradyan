@@ -34,8 +34,8 @@
 [![](https://img.icons8.com/fluency/48/000000/nextjs.png)](https://nextjs.org/)
 [![](https://img.icons8.com/color/48/000000/vue-js.png)](https://vuejs.org/)
 [![](https://img.icons8.com/fluency/48/000000/nextjs.png)](https://nextjs.org/)
-[![](https://cdn.simpleicons.org/tailwindcss/06B6D4)](https://tailwindcss.com/)
-[![](https://cdn.simpleicons.org/postgresql/4169E1)](https://www.postgresql.org/)
-[![](https://cdn.simpleicons.org/prisma/2D3748)](https://www.prisma.io/)
+[![](https://cdn.simpleicons.org/tailwindcss/48/06B6D4)](https://tailwindcss.com/)
+[![](https://cdn.simpleicons.org/postgresql/48/4169E1)](https://www.postgresql.org/)
+[![](https://cdn.simpleicons.org/prisma/48/2D3748)](https://www.prisma.io/)
 
 
