@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[![Resume Icon](https://img.icons8.com/ios-filled/50/000000/resume.png)](https://drive.google.com/file/d/1FZGWd6rHywpMepuKtJH9pOaQnkRzozjz/view?usp=sharing)
+[![Resume Icon](https://img.icons8.com/ios-filled/50/000000/resume.png)](https://drive.google.com/file/d/1JkmQHnpM7VueoKS8S92nTylGSwVWhEqJ/view)
 [![LinkedIn Icon](https://img.icons8.com/dusk/50/000000/linkedin--v2.png)](https://www.linkedin.com/in/anna-paruryan-b2455122b/)
-
+[![Telegram](https://img.shields.io/badge/Telegram-Portfolio-2CA5E0?logo=telegram&logoColor=white)](https://t.me/anna_paruryan)
 ---
 
 ### Languages and Tools:
